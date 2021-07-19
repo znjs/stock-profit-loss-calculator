@@ -1,0 +1,11 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.title {
+  background-color: #ed5c3d;
+  color: #e2e6e8;
+  padding: 2rem 0;
+  border-radius: 1rem;
+}
