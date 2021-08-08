@@ -31,9 +31,9 @@ export default function App() {
         "%";
     }
     updateResult(result);
-    updatePP(0);
-    updateCP(0);
-    updateSQ(0);
+//     updatePP(0);
+//     updateCP(0);
+//     updateSQ(0);
   }
 
   return (
